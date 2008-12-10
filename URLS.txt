@@ -1,0 +1,54 @@
+http://railsmachine.com/hosting
+http://blog.codahale.com/2006/06/19/time-for-a-grown-up-server-rails-mongrel-apache-capistrano-and-you/
+http://alestic.com/  Ubuntu and Debian Images
+
+http://wiki.developer.mindtouch.com/User:PeteE/Rightscale_Testimonial 
+http://developer.amazonwebservices.com/connect/entry.jspa?externalID=1565  Rightscale Image Info
+http://wiki.rightscale.com/Release_Notes_-_RightImages/RightImages_Release_Notes
+http://blog.rightscale.com/2007/04/18/the-first-two-rightimages-are-now-available/
+http://s3.amazonaws.com/rightscale_scripts/FC6Install.sh
+
+http://developer.amazonwebservices.com/connect/entry.jspa?externalID=821 <- RightImage CentOS 5
+
+
+http://brainspl.at/articles/2008/06/06/engine-yard-express
+http://express.engineyard.com/  Vmware Image of EngineYard setup
+http://github.com/engineyard/eycap/tree/master/ <-- engine yard specific recipes
+http://brainspl.at/articles/2008/06/02/introducing-vertebra
+http://www.infoq.com/news/2008/06/introducing-vertebra
+http://github.com/ezmobius/nanite/tree/master
+http://www.slideshare.net/ezmobius/ruby-deployment-presentation
+
+http://www.rubyinside.com/pool-party-poolparty-ruby-ec2-cloud-library-915.html
+http://www.scribd.com/doc/3253193/pool-party-presentation
+http://poolpartyrb.com/tutorials/getting_started.html
+http://github.com/auser/poolparty/tree/master
+#from same guy as poolparty
+http://rubyforge.org/projects/processorpool/
+
+# terminal used by rightscale
+http://www.appgate.com/index/products/mindterm/
+
+http://blog.bigcurl.de/2008/11/amazon-s3-save-money-by-setting-cache.html
+
+AWS for Ruby Developers
+http://developer.amazonwebservices.com/connect/entry.jspa?externalID=846
+
+EC2 Software Load Balancing
+http://developer.amazonwebservices.com/connect/entry!default.jspa?categoryID=100&externalID=1639&fromSearchPage=true
+
+Persistent Storage EC2
+http://www.allthingsdistributed.com/2008/04/persistent_storage_for_amazon.html
+
+http://blogs.smugmug.com/don/2008/06/03/skynet-lives-aka-ec2-smugmug/
+
+https://support.railsmachine.com/
+
+AWS Blog
+http://aws.typepad.com/aws/
+
+http://rubyhitsquad.com/Vlad_the_Deployer.html
+
+http://railspikes.com/2007/4/5/rails-on-ec2
+http://pauldowman.com/projects/ruby-on-rails-ec2/
+http://ec2onrails.rubyforge.org/
