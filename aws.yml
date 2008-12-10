@@ -1,0 +1,15 @@
+--- 
+:access_key_id: ABC
+:secret_access_key: ABCABC
+:x509_key: |
+  
+  -----BEGIN PRIVATE KEY-----
+  aoeuaoeueoueoaauuaeoaueoueoaueoaoueeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+  -----END PRIVATE KEY-----
+
+:account_number: 5111-111-1111
+:x509_cert: |
+  -----BEGIN CERTIFICATE-----
+  aoeuaoeueoueoaauuaeoaueoueoaueoaoueeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+  -----END CERTIFICATE-----
+
