@@ -1,0 +1,6 @@
+# /etc/ec2onrails/balancer_members
+---
+:memcache:
+:db_primary:
+:app:
+:web:
