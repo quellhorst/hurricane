@@ -1,0 +1,35 @@
+
+EC2 on Rails
+Version 0.9.9
+http://rubyforge.org/projects/ec2onrails/
+
+Copyright 2007 Paul Dowman, http://pauldowman.com/
+
+Base AMI built using Eric Hammond's EC2 Ubuntu script: 
+http://alestic.com/
+
+This is free software, and you are welcome to redistribute it under 
+certain conditions. This software comes with ABSOLUTELY NO WARRANTY.
+See /usr/local/ec2onrails/COPYING for details.
+root@ec2-75-101-239-225-production:~# exit
+logout
+Connection to ec2-75-101-239-225.compute-1.amazonaws.com closed.
+Dans-MacPro:~ dan$ ssh -i ~/.ec2/rs-keypair root@ec2-67-202-3-223.compute-1.amazonaws.com
+The authenticity of host 'ec2-67-202-3-223.compute-1.amazonaws.com (67.202.3.223)' can't be established.
+RSA key fingerprint is 6a:ff:1f:20:d1:8e:a6:58:fa:5f:b1:b9:a6:63:7d:42.
+Are you sure you want to continue connecting (yes/no)? yes
+Warning: Permanently added 'ec2-67-202-3-223.compute-1.amazonaws.com,67.202.3.223' (RSA) to the list of known hosts.
+Linux domU-12-31-39-02-65-C2 2.6.21.7-2.fc8xen #1 SMP Fri Feb 15 12:39:36 EST 2008 i686
+
+The programs included with the Ubuntu system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Ubuntu comes with ABSOLUTELY NO WARRANTY, to the extent permitted by
+applicable law.
+
+To access official Ubuntu documentation, please visit:
+http://help.ubuntu.com/
+
+Amazon EC2 Ubuntu 8.10 intrepid AMI built by Eric Hammond
+http://alestic.com  http://ec2ubuntu-group.notlong.com
